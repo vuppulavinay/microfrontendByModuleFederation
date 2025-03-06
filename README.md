@@ -1,0 +1,2 @@
+# microfrontendByModuleFederation
+microfrontend in react
